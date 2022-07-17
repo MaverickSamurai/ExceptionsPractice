@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\ExceptionsPractice\ExceptionsPractice\ExceptionsPractice\bin\Debug\netcoreapp3.1\ExceptionsPractice.exe
+C:\Users\User\Desktop\ExceptionsPractice\ExceptionsPractice\ExceptionsPractice\bin\Debug\netcoreapp3.1\ExceptionsPractice.deps.json
+C:\Users\User\Desktop\ExceptionsPractice\ExceptionsPractice\ExceptionsPractice\bin\Debug\netcoreapp3.1\ExceptionsPractice.runtimeconfig.json
+C:\Users\User\Desktop\ExceptionsPractice\ExceptionsPractice\ExceptionsPractice\bin\Debug\netcoreapp3.1\ExceptionsPractice.runtimeconfig.dev.json
+C:\Users\User\Desktop\ExceptionsPractice\ExceptionsPractice\ExceptionsPractice\bin\Debug\netcoreapp3.1\ExceptionsPractice.dll
+C:\Users\User\Desktop\ExceptionsPractice\ExceptionsPractice\ExceptionsPractice\bin\Debug\netcoreapp3.1\ExceptionsPractice.pdb
+C:\Users\User\Desktop\ExceptionsPractice\ExceptionsPractice\ExceptionsPractice\obj\Debug\netcoreapp3.1\ExceptionsPractice.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ExceptionsPractice\ExceptionsPractice\ExceptionsPractice\obj\Debug\netcoreapp3.1\ExceptionsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ExceptionsPractice\ExceptionsPractice\ExceptionsPractice\obj\Debug\netcoreapp3.1\ExceptionsPractice.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ExceptionsPractice\ExceptionsPractice\ExceptionsPractice\obj\Debug\netcoreapp3.1\ExceptionsPractice.AssemblyInfo.cs
+C:\Users\User\Desktop\ExceptionsPractice\ExceptionsPractice\ExceptionsPractice\obj\Debug\netcoreapp3.1\ExceptionsPractice.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ExceptionsPractice\ExceptionsPractice\ExceptionsPractice\obj\Debug\netcoreapp3.1\ExceptionsPractice.dll
+C:\Users\User\Desktop\ExceptionsPractice\ExceptionsPractice\ExceptionsPractice\obj\Debug\netcoreapp3.1\ExceptionsPractice.pdb
+C:\Users\User\Desktop\ExceptionsPractice\ExceptionsPractice\ExceptionsPractice\obj\Debug\netcoreapp3.1\ExceptionsPractice.genruntimeconfig.cache
